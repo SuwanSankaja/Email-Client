@@ -1,5 +1,5 @@
 # Email-Client
-n this assignment, you will be implementing a command-line based email client.
+In this assignment, you will be implementing a command-line based email client.
 
 The email client has two types of recipients, official and personal. Some official recipients are close friends.
 
